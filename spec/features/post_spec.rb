@@ -33,7 +33,7 @@ describe 'navigate' do
     end
 
     it 'has a scope so that only post creators can see their posts' do
-      other_user = User.create(first_name: 'Non', last_name: 'Authorized', email: "nonauth@exapmle.com", password: "asdfasdf", password_confirmation: "asdfasdf")
+      other_user = User.create(first_name: 'Non', last_name: 'Authorized', email: "nonauth@exapmle.com", password: "asdfasdf", password_confirmation: "asdfasdf", phone: "5555555555")
       post_form_other_user = Post.create(date: Date.today, rationale: "This post shouldn't be seen", user_id: other_user.id, overtime_request: 3.5)
       
       expect(page).to_not have_content(/This post shouldn't be seen/)
