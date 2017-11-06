@@ -21,5 +21,5 @@
 - x Icons from glyphicons
 - x Update the styles for forms
 
-## Refactor TODOS:
-- Refactor posts/_form for admin user with status
+## TODOS:
+
