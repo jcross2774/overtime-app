@@ -12,3 +12,6 @@ module SmsTool
     )
   end
 end
+
+# To test via rails c
+#  SmsTool.send_sms(number: '18016363226', message: "Look at me I am in a text!")
