@@ -9,3 +9,7 @@
     #:enable_starttls_auto => true
 #}
 #ActionMailer::Base.delivery_method = :smtp
+
+#Steps
+#1 To set up correctly add the setting above to .ENV file.
+#2 Restart heroku and run herolu run rake notification:manager_email 
