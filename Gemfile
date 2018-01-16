@@ -36,9 +36,10 @@ gem 'devise', '~> 4.3'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'gritter', '~> 1.2'
 gem 'administrate', '~> 0.8.1'
-gem 'bourbon'
+gem 'bourbon', '~> 5.0'
 gem 'pundit', '~> 1.1'
 gem 'twilio-ruby', '~> 4.11', '~> 4.11.1'
 gem 'dotenv-rails' , :groups => [:development, :test]
 gem 'kaminari', '~> 1.1', '>= 1.1.1'
-gem 'rails_12factor'
+gem 'rails_12factor', '~> 0.0.3'
+

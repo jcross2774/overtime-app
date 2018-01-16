@@ -18,7 +18,13 @@
 - Create audit log for each text message
 - Need to update end_date when confirmed
 - Need to update audit log status when an overtime rejected
-- Home icon
+- x Home icon
+- Update buttons on employee homepage for mobile
+- Update buttons to include time span (time range)
+- Update button sort order for employee home page
+- Remove unnecissary nav bar buttons for managers
+- Fix admin dashboard bug ( rout issue - administrate gem)
+- Implement Honeybadger for error reporting
+- Implement new relic for keeping site alive
 
-## TODOS:
 
