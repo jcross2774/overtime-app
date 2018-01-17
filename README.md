@@ -22,7 +22,7 @@
 - x Update buttons on employee homepage for mobile
 - x Update buttons to include time span (time range)
 - x Update button sort order for employee home page
-- Remove unnecissary nav bar buttons for managers
+- x Remove unnecissary nav bar buttons for managers
 - Fix admin dashboard bug ( rout issue - administrate gem)
 - Implement Honeybadger for error reporting
 - Implement new relic for keeping site alive
