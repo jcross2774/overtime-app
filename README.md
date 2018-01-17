@@ -27,5 +27,3 @@
 - Implement Honeybadger for error reporting
 - Implement new relic for keeping site alive
 
-
-
