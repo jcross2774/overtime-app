@@ -23,7 +23,7 @@
 - x Update buttons to include time span (time range)
 - x Update button sort order for employee home page
 - x Remove unnecissary nav bar buttons for managers
-- Fix admin dashboard bug ( rout issue - administrate gem)
-- Implement Honeybadger for error reporting
-- Implement new relic for keeping site alive
+- x Fix admin dashboard bug ( rout issue - administrate gem)
+- x Implement Honeybadger for error reporting (learned but not implemented due to cost)
+- x Implement new relic for keeping site alive (learned but not implemented)
 
